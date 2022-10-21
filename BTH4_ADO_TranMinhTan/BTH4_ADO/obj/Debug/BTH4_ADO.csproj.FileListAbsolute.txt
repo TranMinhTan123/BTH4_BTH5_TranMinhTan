@@ -1,0 +1,5 @@
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO\bin\Debug\BTH4_ADO.dll
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO\bin\Debug\BTH4_ADO.pdb
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO\obj\Debug\BTH4_ADO.csproj.CoreCompileInputs.cache
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO\obj\Debug\BTH4_ADO.dll
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO\obj\Debug\BTH4_ADO.pdb

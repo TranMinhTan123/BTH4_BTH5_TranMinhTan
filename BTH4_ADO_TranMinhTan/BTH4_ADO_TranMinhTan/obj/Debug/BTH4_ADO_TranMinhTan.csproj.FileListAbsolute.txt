@@ -1,0 +1,9 @@
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\obj\Debug\BTH4_ADO_TranMinhTan.csproj.CoreCompileInputs.cache
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\bin\Debug\BTH4_ADO_TranMinhTan.exe.config
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\bin\Debug\BTH4_ADO_TranMinhTan.exe
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\bin\Debug\BTH4_ADO_TranMinhTan.pdb
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\bin\Debug\BTH4_ADO.dll
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\bin\Debug\BTH4_ADO.pdb
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\obj\Debug\BTH4_ADO_TranMinhTan.exe
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\obj\Debug\BTH4_ADO_TranMinhTan.pdb
+E:\ThucTap\BT_Tuan02\Buoi02\BTH4_ADO_TranMinhTan\BTH4_ADO_TranMinhTan\obj\Debug\BTH4_ADO_TranMinhTan.csproj.AssemblyReference.cache
